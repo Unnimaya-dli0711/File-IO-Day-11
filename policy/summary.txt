@@ -1,0 +1,2 @@
+Total Number of Policies: 3
+Total Policy Amount: 15000.0
