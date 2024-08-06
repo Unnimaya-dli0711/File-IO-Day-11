@@ -12,7 +12,7 @@ public class CountWords {
             while((string=bufferedReader.readLine())!=null){
                 System.out.println(string);
                 String[] charArray=string.split(" ");
-                word+=charArray.length; 
+                word+=charArray.length;
             }
             System.out.println(word);
         }catch (IOException e){
